@@ -1,0 +1,18 @@
+# Secrets
+.env
+
+# Temporary files
+*.tmp
+*.log
+.DS_Store
+
+# Node modules
+node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Build artifacts
+dist/
+build/
