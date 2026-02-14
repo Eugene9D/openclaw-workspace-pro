@@ -1,7 +1,7 @@
 {
   "name": "openclaw-workspace-pro",
   "version": "1.0.0",
-  "description": "Enterprise-grade workspace setup for long-running OpenClaw AI agents",
+  "description": "Production-ready workspace setup for long-running OpenClaw AI agents",
   "keywords": [
     "openclaw",
     "workspace",
@@ -15,7 +15,7 @@
     "production-ready",
     "long-running-agent"
   ],
-  "author": "Eugene Daniliuk <eugene9@gmail.com>",
+  "author": "Eugene Devyatyh <eugene9@gmail.com>",
   "license": "MIT",
   "homepage": "https://github.com/Eugene9D/openclaw-workspace-pro#readme",
   "repository": {

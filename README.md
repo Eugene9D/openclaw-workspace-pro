@@ -1,6 +1,6 @@
 # OpenClaw Workspace Pro
 
-> **Enterprise-grade workspace setup for long-running OpenClaw AI agents**
+> **Production-ready workspace setup for long-running OpenClaw AI agents**
 
 Transform your OpenClaw workspace from basic to production-ready in minutes. Implements battle-tested patterns for artifact management, secrets security, memory optimization, and continuous operation.
 
@@ -312,7 +312,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## 🙏 Credits
 
-**Created by:** Eugene Daniliuk ([Eugene9D](https://github.com/Eugene9D))
+**Created by:** Eugene Devyatyh ([Eugene9D](https://github.com/Eugene9D))
 
 **Inspired by:**
 - [OpenAI Shell + Skills + Compaction](https://developers.openai.com/blog/skills-shell-tips)

@@ -1,8 +1,8 @@
 ---
 name: openclaw-workspace-pro
-description: Enterprise-grade workspace setup for OpenClaw agents. Implements artifact workflows, secrets management, memory compaction, and long-running agent patterns based on OpenAI's Shell + Skills best practices. One-command installation transforms your workspace into a production-ready environment.
+description: Production-ready workspace setup for OpenClaw agents. Implements artifact workflows, secrets management, memory compaction, and long-running agent patterns based on OpenAI's Shell + Skills best practices. One-command installation transforms your workspace into a production-ready environment.
 version: 1.0.0
-author: Eugene Daniliuk
+author: Eugene Devyatyh
 repository: https://github.com/Eugene9D/openclaw-workspace-pro
 metadata:
   openclaw:
@@ -229,7 +229,7 @@ Based on patterns from:
 - OpenClaw community practices
 - Glean enterprise skill deployments
 
-Built by Eugene Daniliuk for the OpenClaw ecosystem.
+Built by Eugene Devyatyh for the OpenClaw ecosystem.
 
 ---
 
